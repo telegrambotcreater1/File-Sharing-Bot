@@ -1,4 +1,4 @@
-#(©)CodeXBotz
+#FILMPUBLISHER.LK
 
 import os
 import asyncio

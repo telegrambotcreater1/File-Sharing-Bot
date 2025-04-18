@@ -1,5 +1,4 @@
-#(©)Codexbotz
-#@iryme
+#FILMPUBLISHER.LK
 
 from aiohttp import web
 from .route import routes

@@ -1,4 +1,4 @@
-#(©)Codexbotz
+#FILMPUBLISHER.LK
 
 from pyrogram import __version__
 from bot import Bot

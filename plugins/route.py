@@ -1,5 +1,4 @@
-#(©)Codexbotz
-#rymme
+#FILMPUBLISHER.LK
 
 from aiohttp import web
 

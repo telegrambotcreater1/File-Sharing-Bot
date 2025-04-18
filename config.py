@@ -1,5 +1,3 @@
-#(©)CodeXBotz
-
 import os
 import logging
 from dotenv import load_dotenv
@@ -8,19 +6,19 @@ from logging.handlers import RotatingFileHandler
 load_dotenv()
 
 #Bot token @Botfather
-TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "")
+TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "8166388610:AAEVdIQe42mNBiEvO7TKUcDaytIzFMhkZq8")
 
 #Your API ID from my.telegram.org
-APP_ID = int(os.environ.get("APP_ID", ""))
+APP_ID = int(os.environ.get("APP_ID", "25127030"))
 
 #Your API Hash from my.telegram.org
-API_HASH = os.environ.get("API_HASH", "")
+API_HASH = os.environ.get("API_HASH", "63c722798c58f61198491d41c7c617c0")
 
 #Your db channel Id
-CHANNEL_ID = int(os.environ.get("CHANNEL_ID", ""))
+CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002655258974"))
 
 #OWNER ID
-OWNER_ID = int(os.environ.get("OWNER_ID", ""))
+OWNER_ID = int(os.environ.get("OWNER_ID", "5732813591"))
 
 #Port
 PORT = os.environ.get("PORT", "8080")
